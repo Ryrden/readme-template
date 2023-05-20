@@ -63,7 +63,7 @@ The project folder structure is organized as follows:
 |-- ...
 ```
 
-<!-- Another way to describe is in running text -->
+<!-- Another way to describe is in plain text -->
 
 ### Description and styles
 
