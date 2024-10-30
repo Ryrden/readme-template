@@ -6,7 +6,7 @@
 ![Github repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio)
 ![Github stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)
 
-![Capa do Projeto](https://source.unsplash.com/featured/1280x720)
+![Capa do Projeto](https://picsum.photos/1280/720)
 
 > Descrição breve do projeto
 
@@ -125,7 +125,7 @@ Como alternativa, consulte a documentação do GitHub sobre [como criar uma soli
 
 ## Licença
 
-Este projeto está sob licença. Consulte [LICENSE](LICENSE.md) para obter mais informações.
+Este projeto está sob licença. Consulte [LICENSE](LICENSE) para obter mais informações.
 
 ## Voltar ao topo
 

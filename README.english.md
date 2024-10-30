@@ -6,7 +6,7 @@
 ![Github repo size](https://img.shields.io/github/repo-size/your-user/your-repository)
 ![Github stars](https://img.shields.io/github/stars/your-user/your-repository?style=social)
 
-![Project Cover](https://source.unsplash.com/featured/1280x720)
+![Project Cover](https://picsum.photos/1280/720)
 
 > Short description of the project
 
@@ -126,7 +126,7 @@ Alternatively, consult the GitHub documentation on [how to create a pull request
 
 ## License
 
-This project is under license. See [LICENSE](LICENSE.md) for more information.
+This project is under license. See [LICENSE](LICENSE) for more information.
 
 ## Back to the top
 
